@@ -7,7 +7,7 @@
   </PulldownTransition>
 </template>
 <script>
-import { PullDownTransition } from "pull_down_transition";
+import { PullDownTransition } from "@/components/PulldownTransition/PulldownTransition.js";
 export default {
   components: { PullDownTransition },
 };
